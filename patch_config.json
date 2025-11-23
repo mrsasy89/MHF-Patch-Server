@@ -1,0 +1,8 @@
+{
+    "PatchPort": 8093,
+    "ImagePort": 8094,
+    "GameFolder": "./game",
+    "ImageFolder": "./images",
+    "Force": false,
+    "MaxClients": 5
+}
