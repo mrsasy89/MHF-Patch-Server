@@ -7,8 +7,6 @@ It provides a patch server configuration tailored for the **MHF Custom Launcher*
 
 ## Credits
 
-## Credits
-
 Original MHF Patch Server by rockisch (MIT license):
 [rockisch](https://github.com/rockisch).
 
